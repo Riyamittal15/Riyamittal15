@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm Riya Mittal</h1>
-<h3 align="center">I am a passionate developer and coder. I am a undergrad pursuing B-Tech in Computer Science.</h3>
+<h3 align="center">I am a passionate developer and coder. I am an undergrad pursuing B-Tech in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyamittal15&label=Profile%20views&color=0e75b6&style=flat" alt="riyamittal15" /> </p>
 
